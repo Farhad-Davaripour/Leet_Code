@@ -1,2 +1,2 @@
-# Leet_Code
+# Leet Code
 Practicing Leet Code examples.
